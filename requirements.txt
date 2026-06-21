@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+pillow
+numpy
+scikit-learn
+opencv-python-headless
+python-multipart
+requests
